@@ -1,5 +1,5 @@
 # website-cv
-Сайт визитка для rychkov.pro [html + css]
+Сайт визитка [html + css]
 
 Fancy Border Radius - https://9elements.github.io/fancy-border-radius/
 Градиенты — https://webgradients.com/
